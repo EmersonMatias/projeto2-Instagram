@@ -1,4 +1,4 @@
-# Projeto 2 -Instagram (Driven)
+# Projeto 2 - Instagram (Driven)
 
 O propósito desse projeto é aplicar habilidades em desenvolvimento web, especificamente em HTML e CSS,
 para criar um layout responsivo semelhante ao da versão web do Instagram. O objetivo é praticar o design 
